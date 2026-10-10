@@ -1,1 +1,1 @@
-A web-based library management system designed to manage books, users, and borrowing transactions. Developed using PHP and MySQL, in compliance with the requirements of WebDev course.
+A web-based library management system designed to manage books, users, and borrowing transactions. Written in PHP and MySQL, in compliance with the requirements of WebDev course.
